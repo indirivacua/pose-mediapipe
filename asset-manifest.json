@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pose-mediapipe/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pose-mediapipe/static/js/main.5019bf28.chunk.js",
+    "main.js.map": "/pose-mediapipe/static/js/main.5019bf28.chunk.js.map",
+    "runtime-main.js": "/pose-mediapipe/static/js/runtime-main.c7bc170f.js",
+    "runtime-main.js.map": "/pose-mediapipe/static/js/runtime-main.c7bc170f.js.map",
+    "static/js/2.67f35ff0.chunk.js": "/pose-mediapipe/static/js/2.67f35ff0.chunk.js",
+    "static/js/2.67f35ff0.chunk.js.map": "/pose-mediapipe/static/js/2.67f35ff0.chunk.js.map",
+    "index.html": "/pose-mediapipe/index.html",
+    "precache-manifest.029c4a4e2d6f37584a634ebe5fd0bf8c.js": "/pose-mediapipe/precache-manifest.029c4a4e2d6f37584a634ebe5fd0bf8c.js",
+    "service-worker.js": "/pose-mediapipe/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pose-mediapipe/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.67f35ff0.chunk.js.LICENSE.txt": "/pose-mediapipe/static/js/2.67f35ff0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7bc170f.js",
+    "static/js/2.67f35ff0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5019bf28.chunk.js"
+  ]
+}
